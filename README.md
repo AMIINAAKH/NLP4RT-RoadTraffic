@@ -149,10 +149,10 @@ If you use this benchmark dataset or framework in your research, please cite:
 ```bibtex
 @article{khandoudi2026urban,
   title={Urban Traffic Congestion Detection from Social Media Using Transformer-Based Models and Retrieval-Augmented Generation},
-  author={Khandoudi, Amina and Makni, Aicha and Wolf, Armin and Ben Hedia, Béchir},
+  author={Khandoudi, Amina and Walha, Afef and Makni, Achraf and Ben Hamed, Bassem},
   journal={Springer Nature Applied Sciences},
   year={2026}
-}
+
 ```
 
 ---
